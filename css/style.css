@@ -1,0 +1,10 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-image: url(../img/backgrond.png);
+}
+html{
+    font: 1em sans-serif;
+}
